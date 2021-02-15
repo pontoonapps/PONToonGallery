@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: f552ed6fe104d5a4d8d32e1741484c6f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube.002
+    100004: Cylinder.001
+    100006: Door
+    100008: Cube
+    100010: Cube.001
+    100012: Plane.001
+    100014: Cylinder.003
+    100016: Cylinder.004
+    100018: Cylinder.005
+    100020: Cylinder.006
+    100022: Cylinder.007
+    100024: Cylinder.008
+    100026: Cylinder.009
+    100028: Cylinder.010
+    100030: Cylinder.011
+    100032: Cylinder.012
+    100034: Cylinder.013
+    100036: Cylinder.014
+    100038: Plane.004
+    100040: Cube.000
+    100042: Cube.003
+    100044: Cube.004
+    100046: Cube.005
+    100048: Cube.006
+    400000: //RootNode
+    400002: Cube.002
+    400004: Cylinder.001
+    400006: Door
+    400008: Cube
+    400010: Cube.001
+    400012: Plane.001
+    400014: Cylinder.003
+    400016: Cylinder.004
+    400018: Cylinder.005
+    400020: Cylinder.006
+    400022: Cylinder.007
+    400024: Cylinder.008
+    400026: Cylinder.009
+    400028: Cylinder.010
+    400030: Cylinder.011
+    400032: Cylinder.012
+    400034: Cylinder.013
+    400036: Cylinder.014
+    400038: Plane.004
+    400040: Cube.000
+    400042: Cube.003
+    400044: Cube.004
+    400046: Cube.005
+    400048: Cube.006
+    2100000: WhiteWall
+    2100002: RedBrick
+    2100004: Material.004
+    2100006: No Name
+    2100008: Brick3
+    2100010: Glass
+    2100012: Material
+    2100014: Material.005
+    2100016: Material.006
+    2100018: Desk
+    2100020: MainDoor
+    2100022: windowBars
+    2100024: Stairs
+    2100026: Handle
+    2300000: Cube.002
+    2300002: Cylinder.001
+    2300004: Door
+    2300006: Cube
+    2300008: Cube.001
+    2300010: Plane.001
+    2300012: //RootNode
+    2300014: Cylinder.003
+    2300016: Cylinder.004
+    2300018: Cylinder.005
+    2300020: Cylinder.006
+    2300022: Cylinder.007
+    2300024: Cylinder.008
+    2300026: Cylinder.009
+    2300028: Cylinder.010
+    2300030: Cylinder.011
+    2300032: Cylinder.012
+    2300034: Cylinder.013
+    2300036: Cylinder.014
+    2300038: Plane.004
+    2300040: Cube.000
+    2300042: Cube.003
+    2300044: Cube.004
+    2300046: Cube.005
+    2300048: Cube.006
+    3300000: Cube.002
+    3300002: Cylinder.001
+    3300004: Door
+    3300006: Cube
+    3300008: Cube.001
+    3300010: Plane.001
+    3300012: //RootNode
+    3300014: Cylinder.003
+    3300016: Cylinder.004
+    3300018: Cylinder.005
+    3300020: Cylinder.006
+    3300022: Cylinder.007
+    3300024: Cylinder.008
+    3300026: Cylinder.009
+    3300028: Cylinder.010
+    3300030: Cylinder.011
+    3300032: Cylinder.012
+    3300034: Cylinder.013
+    3300036: Cylinder.014
+    3300038: Plane.004
+    3300040: Cube.000
+    3300042: Cube.003
+    3300044: Cube.004
+    3300046: Cube.005
+    3300048: Cube.006
+    4300000: Cylinder.001
+    4300002: Door
+    4300004: Cube.002
+    4300006: Cube.001
+    4300008: Cube
+    4300010: Plane.001
+    4300012: Cylinder.007
+    4300014: Cylinder.005
+    4300016: Cylinder.004
+    4300018: Cylinder.008
+    4300020: Cylinder.014
+    4300022: Plane.004
+    4300024: Cube.000
+    4300026: Cube.006
+    4300028: Cube.005
+    4300030: Cube.004
+    4300032: Cube.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedBrick
+    second: {fileID: 2100000, guid: 6e76d9ae525f0704f88d653d76d19646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteWall
+    second: {fileID: 2100000, guid: f2f83c8d9272ce3469a24377037c1399, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
