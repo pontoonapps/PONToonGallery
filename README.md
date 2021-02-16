@@ -40,6 +40,13 @@ You will also need the Android build support and [Google Cardboard SDK](https://
 If you wish to use this project clone the repository and open it using the correct version of Unity. 
 
 ## Usage
+### New Gallery
+```bash
+Add a canvas with the Open Gallery script
+Add a Dropdown with the Prebuilt Galleries Script
+Expand the Prebuilt Galleries script tap and create the number of galleries you would like 
+Name and add images to each gallery
+```
 
 ## More Information
 
@@ -50,4 +57,4 @@ Visit our website for more information about the [PONToon Project](https://www.p
 This project is not open to contribution at this time, however feel free to clone the project and use it in any way permitted in the lisence. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) or whichever license we choose 
+The PONToon Gallery Web is  availible under the [MIT](https://choosealicense.com/licenses/mit/) license. 
