@@ -30,7 +30,7 @@ Project Duration: 3.5 years
 [Unity Engine](https://unity3d.com/get-unity/download/archive) is required to run the 360 Train Station.
 
 ```bash
-Unity version: 2018.3.8f1 (find actual version) 
+Unity version: 2018.4.22f1
 Platforms    : Windows, Android, Google Cardboard
 ```
 You will also need the Android build support and [Google Cardboard SDK](https://developers.google.com/vr/develop/unity/get-started-android).
