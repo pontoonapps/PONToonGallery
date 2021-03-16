@@ -7,12 +7,6 @@ Within Unity you can add your own photos to the prebuilt gallery drop down and t
   <img src="interregLogo.png" width="400" title="hover text">
 </p>
 
-```bash
-Budget received from the France (Channel) England Programme: €4 million ERDF
-Total Project Budget: €5.79 million
-Project Duration: 3.5 years
-```
-
 ## About PONToon
 PONToon is an exciting project that will use a range of new and developing technologies such as games development, 3D/virtual reality, social media and web/mobile apps to engage, support and up-skill women in order to aid their employment opportunities.
 
@@ -27,7 +21,7 @@ Project Duration: 3.5 years
 
 ## Prerequisites
 
-[Unity Engine](https://unity3d.com/get-unity/download/archive) is required to run the 360 Train Station.
+[Unity Engine](https://unity3d.com/get-unity/download/archive) is required to build the PONToon Gallerry.
 
 ```bash
 Unity version: 2018.4.22f1
